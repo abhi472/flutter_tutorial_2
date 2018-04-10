@@ -1,6 +1,11 @@
 # flutter_tutorial_2
 
-A new Flutter application.
+This is the second application that's been built following the flutter documentation, <b>Tour of the Flutter Widget Framework </b>
+
+## Screenshots
+
+<img src="https://github.com/abhi472/flutter_tutorial_2/blob/master/art/screen_home.jpg" width="420">
+This is how the screen looks now, i'll be fixing this as the tutorial goes on!
 
 ## Getting Started
 
